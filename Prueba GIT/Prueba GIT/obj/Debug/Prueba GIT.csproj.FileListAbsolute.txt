@@ -1,0 +1,2 @@
+D:\Usuario\Documents\Prueba\Prueba GIT\Prueba GIT\obj\Debug\Prueba GIT.exe
+D:\Usuario\Documents\Prueba\Prueba GIT\Prueba GIT\obj\Debug\Prueba GIT.pdb
